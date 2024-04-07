@@ -1,0 +1,7 @@
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\bin\Debug\Lista01 (ex12).exe.config
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\bin\Debug\Lista01 (ex12).exe
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\bin\Debug\Lista01 (ex12).pdb
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\obj\Debug\Lista01 (ex12).csproj.AssemblyReference.cache
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\obj\Debug\Lista01 (ex12).csproj.CoreCompileInputs.cache
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\obj\Debug\Lista01 (ex12).exe
+E:\gabri\repos\Lista01_Aritmeticos (Ex 01)\Lista01 (ex12)\obj\Debug\Lista01 (ex12).pdb
